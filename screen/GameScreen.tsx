@@ -7,6 +7,7 @@ import { TextNumber } from 'text-number';
 
 // Solução 1: const { TextNumber } = require('text-number');
 // Solução 2: criar um arquivo d.ts dentro de node-modules/@types/text-number
+//   declare module 'text-number';
 
 import { 
   Logo, 
