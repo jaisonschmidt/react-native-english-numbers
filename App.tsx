@@ -1,7 +1,4 @@
-// TODO: Refatorar a tela de GameScreen (melhorar a organização do código subdividindo Controller e View)
-// TODO: Configurar Lint
-
-import React, { useEffect } from 'react';
+import React from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import { useFonts, Poppins_400Regular } from '@expo-google-fonts/poppins';
